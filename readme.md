@@ -54,3 +54,21 @@ LMLMLMLMM
 
 ## Demo Image of Expected Output
 ![Example Solution](https://github.com/weareflip/weareflip-programming-tests/blob/master/assets/example.png?raw=true)
+
+# Getting Started
+
+## Pre-Requisites
+- Node installed on your system
+
+## Installation
+1. ```npm i```
+2. ```npm run start```
+
+## Usage
+### Browser Usage
+1. Navigate to http://localhost:3000/
+2. Input values for plateau and rover generation and click the `Submit` button
+3. Input a string of commands in the next form to move the rover around the plateau.
+### Test Usage
+Run jest tests with:
+1. ```npm run test```
